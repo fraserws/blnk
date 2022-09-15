@@ -61,7 +61,7 @@
 ## About The Project
 <div align="center">
 
-[![](https://github.com/fraserws/blnk/blob/main/2022-09-15%2017-09-06.gif)
+[!(https://github.com/fraserws/blnk/blob/main/2022-09-15%2017-09-06.gif)
 </div align="center">
 This is a simple, performant url shortner with qr code generation.
 
