@@ -24,7 +24,7 @@ const Home: NextPage = () => {
                 B.lnk
               </h1>
               <p className="text-center capitalize pt-1 text-md">
-                a simple and speedy url shortner
+                a simple and speedy url shortener
               </p>
               <CreateLink />
             </Suspense>
