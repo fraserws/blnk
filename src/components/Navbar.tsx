@@ -23,7 +23,7 @@ export const Navbar = () => {
         {/** Desktop Tab Menu */}
 
         <div className="form-control flex-1">
-          <a href="https://fraserws.dev">
+          <a href="https://github.com/fraserws/blnk/">
             <AiFillGithub className="h-10 w-10" />
           </a>
         </div>
