@@ -26,6 +26,8 @@
 
 
   <h1 align="center">B.lnk</h1>
+  <h2> DEMO NOT FULLY FUNCTIONAL (PLANETSCALE TRIAL EXPIRED)</h2>
+
 
   <p align="center">
     a simple and speedy url shortener
